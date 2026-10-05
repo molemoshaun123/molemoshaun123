@@ -1,4 +1,4 @@
-﻿# Hi there, I'm Molemo Shaun Kekana 👋
+# Hi there, I'm Molemo Shaun Kekana ??
 
 **Cybersecurity Enthusiast | Full-Stack Developer | Final-Year Computer Science Student**
 
@@ -6,48 +6,48 @@ I'm a final-year BSc Mathematical Science student at the **University of Limpopo
 
 ---
 
-## 🧑‍💻 About Me
+## ????? About Me
 
-- 🎓 Final-year BSc student at the University of Limpopo
-- 🔐 Focused on Cybersecurity and Penetration Testing
-- 💻 Full-stack web developer with hands-on project experience
-- 🧪 Lab Assistant helping students with C++ and Java programming
-- 📚 Always learning — currently grinding TryHackMe daily
+- ?? Final-year BSc student at the University of Limpopo
+- ?? Focused on Cybersecurity and Penetration Testing
+- ?? Full-stack web developer with hands-on project experience
+- ?? Lab Assistant helping students with C++ and Java programming
+- ?? Always learning � currently grinding TryHackMe daily
 
 ---
 
-## 🎓 Education & Certifications
+## ?? Education & Certifications
 
 | | Details |
 |---|---|
-| **Degree** | BSc Mathematical Science (Computer Science & Statistics) — University of Limpopo (Final Year) |
-| **Certification** | [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) — Completed June 2025 |
+| **Degree** | BSc Mathematical Science (Computer Science & Statistics) � University of Limpopo (Final Year) |
+| **Certification** | [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) � Completed June 2025 |
 
 ---
 
-## 🛡️ Cybersecurity Journey
+## ??? Cybersecurity Journey
 
 I'm actively building my cybersecurity skills and documenting everything publicly:
 
-- 🔥 **23-day streak** on [TryHackMe](https://tryhackme.com) and counting
-- 🌐 Studying **TCP/IP networking**, **reconnaissance**, **enumeration**, and **vulnerability assessment**
-- 🐧 Building strong **Linux fundamentals** for penetration testing
-- 📝 Writing detailed **write-ups** for every room I complete
-- 📂 All my notes and progress are in my public repo: **[Cybersecurity-Journey-00](https://github.com/molemoshaun123/Cybersecurity-Journey-00)**
+- ?? **23-day streak** on [TryHackMe](https://tryhackme.com) and counting
+- ?? Studying **TCP/IP networking**, **reconnaissance**, **enumeration**, and **vulnerability assessment**
+- ?? Building strong **Linux fundamentals** for penetration testing
+- ?? Writing detailed **write-ups** for every room I complete
+- ?? All my notes and progress are in my public repo: **[Cybersecurity-Journey-00](https://github.com/molemoshaun123/Cybersecurity-Journey-00)**
 
 ---
 
-## 🚀 Projects
+## ?? Projects
 
-### 🔧 [AI Workshop Management System](https://github.com/molemoshaun123/AI-WORKSHOP) (2025)
+### ?? [AI Workshop Management System](https://github.com/molemoshaun123/AI-WORKSHOP) (2026)
 A full-stack vehicle workshop platform with role-based Admin and Customer portals.
 
-- Integrated **11 AI-powered features** using the Google Gemini API — including fault diagnosis, smart scheduling, and cost estimation
+- Integrated **11 AI-powered features** using the Google Gemini API � including fault diagnosis, smart scheduling, and cost estimation
 - Built with **React**, **Node.js**, **Express.js**, **PostgreSQL**, and **Tailwind CSS**
 - Features **JWT authentication** and **real-time messaging** between staff and customers
 - Deployed on **Vercel** (frontend) and **Render** (backend)
 
-### ♿ ThinkAble Website
+### ? ThinkAble Website
 An accessibility-focused web platform built to support **neurodiverse students**, particularly those with **dyslexia**.
 
 - Designed with **inclusive learning-support features** to make studying easier
@@ -55,16 +55,16 @@ An accessibility-focused web platform built to support **neurodiverse students**
 
 ---
 
-## 💼 Experience
+## ?? Experience
 
-**Computer Science Student Lab Assistant** — University of Limpopo (2024–2025)
+**Computer Science Student Lab Assistant** � University of Limpopo (2024�2025)
 - Helped students understand and debug **C++** and **Java** code
 - Provided hands-on **technical support** in the computer lab
 - Troubleshot software and environment issues for students
 
 ---
 
-## 🛠️ Tech Stack
+## ??? Tech Stack
 
 **Languages**
 
@@ -89,11 +89,11 @@ An accessibility-focused web platform built to support **neurodiverse students**
 
 ---
 
-## 📫 Let's Connect
+## ?? Let's Connect
 
-- 🐙 GitHub: [github.com/molemoshaun123](https://github.com/molemoshaun123)
-- 🛡️ Cybersecurity Repo: [Cybersecurity-Journey-00](https://github.com/molemoshaun123/Cybersecurity-Journey-00)
+- ?? GitHub: [github.com/molemoshaun123](https://github.com/molemoshaun123)
+- ??? Cybersecurity Repo: [Cybersecurity-Journey-00](https://github.com/molemoshaun123/Cybersecurity-Journey-00)
 
 ---
 
-> *"The more I learn, the more I realize how much I don't know — and that keeps me going."*
+> *"The more I learn, the more I realize how much I don't know � and that keeps me going."*
